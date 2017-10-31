@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Mencoba prose.io
 updated: '2017-10-31 22:38'
 ---
