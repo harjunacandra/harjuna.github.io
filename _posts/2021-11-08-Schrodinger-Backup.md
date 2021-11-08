@@ -1,6 +1,6 @@
 ---
 published: true
-title: Schrodinger Backup.md
+title: Schrodinger Backup
 updated: '2021-11-08 18:13'
 ---
 
