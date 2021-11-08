@@ -1,7 +1,11 @@
 ---
 published: false
 ---
-## Schrodinger Backup
+---
+published: true
+title: Schrodinger Backup
+updated: '2021-11-08 18:13'
+---
 
 _**The condition of any backup is unknown until a restore is attempted.**_
 
