@@ -6,7 +6,7 @@ updated: '2021-11-08 18:13'
 
 _**The condition of any backup is unknown until a restore is attempted.**_
 
-Schrodinger Backup, Istilah ini sering muncul mak-_bedunduk_ dan di _guyon_ kan oleh _account2_ _tech_ di Twitter dan Instagram. Yaaa pada waktu baca itu, saya juga hanya _mesam-mesem_ karena memang lucu aja. Apalagi kalau sudah susah-susah backup tapi ternyata kagak bisa digunakan. Sampai saat itu saya mengalaminya sendiri...
+Schrodinger Backup, Istilah ini sering muncul _makbedunduk_ dan di _guyon_ kan oleh _account2_ _tech_ di Twitter dan Instagram. Yaaa pada waktu baca itu, saya juga hanya _mesam-mesem_ karena memang lucu aja. Apalagi kalau sudah susah-susah backup tapi ternyata kagak bisa digunakan. Sampai saat itu saya mengalaminya sendiri...
 
 Alkisah.
 
@@ -15,7 +15,7 @@ Hanya 1 hal yang waktu itu masih belum bisa dilakukan karena kendala biaya, _mir
 
 Dengan hampir sempurnanya _homelab_ saya, sayapun mulai berpikir, sebenarnya apa fungsi dari _homelab_ saya ini? Karena kalau memang dilihat oleh orang lain, _homelab_ saya ini tidak ada fungsinya sama sekali dan hanya membuang-buang uang. Saya pernah mencoba untuk mengusulkan untuk membuat _home_ _automation_ dan CCTV tapi ditolak mentah-mentah karena masih ngontrak. 
 
-Pada akhirnya, untung Tak dapat Diraih, malang Tak Dapat Ditolak. Awal 2021 saya harus melakukan _purge_ semua homelab saya, baik dari sisi _cloud_ maupun dari _on premise_. Saya sudah _legowo_ dengan keputusan ini karena memang keadaan yang memaksa. Ya Sudahlah, toh saya juga sudah melakukan _incremental_ _backup_ perminggu sejak server di-_deploy_. Saya juga sudah melakukan 3-2-1 _backup_ pada server dan _storage_. Jadi, kalau terjadi apa-apa dengan salah satu _backup_ saya, saya masih bisa melakukan _restore_ dari tempat lainnya.
+Pada akhirnya, untung Tak dapat Diraih, malang Tak Dapat Ditolak. Awal 2021 saya harus melakukan _purge_ semua homelab saya, baik dari sisi _cloud_ maupun dari _on premise_. Saya sudah _legowo_ dengan keputusan ini karena memang keadaan yang memaksa. Ya Sudahlah, toh saya juga sudah melakukan _incremental_ _backup_ perminggu sejak server di _deploy_ . Saya juga sudah melakukan 3-2-1 _backup_ pada server dan _storage_. Jadi, kalau terjadi apa-apa dengan salah satu _backup_ saya, saya masih bisa melakukan _restore_ dari tempat lainnya.
 
 hampir Setaun berlalu...
 
