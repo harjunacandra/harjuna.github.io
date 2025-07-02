@@ -6,10 +6,10 @@ description:        "tempat untuk berkeluh kesah"
 
 # Author Info
 author_name:        "Harjuna" # Your name here
-author_email:       me[at]harjuna.web.id # Your email here
+author_email:       me[at]harjuna.id # Your email here
 author_gravatar:    93149c10ce2957f56939dcbff75837ba # Your Gravatar md5 hash here for logo
-twitter_username:   harjunacandra # Your Twitter username here
-github_username:    harjunacandra # Your GitHub username here
+twitter_username:   hrjncs # Your Twitter username here
+github_username:    hrjncs # Your GitHub username here
 
 # Site Settings
 baseurl:            "" # Base URL must end WITHOUT a slash, default: ""
@@ -51,5 +51,5 @@ defaults:
       layout:       "post"
 
 #SSL Settings
-url: https://harjuna.web.id
-enforce_ssl: harjuna.web.id
+url: https://harjuna.id
+enforce_ssl: harjuna.id
