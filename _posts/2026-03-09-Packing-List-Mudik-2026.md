@@ -3,14 +3,14 @@
 ---
 
 ## 🧳 Tas & Organisasi
-### Tas Utama
+#### Tas Utama
 - **Yamatomichi Mini 2** — Tas utama. Ringan banget dan muat lebih banyak dari yang keliatan
-### Tas Tambahan
+#### Tas Tambahan
 - **Hyperlite Vice Versa** — Pouch kecil buat barang yang sering diambil, taruh depan atau samping
-### Packing Cube
+#### Packing Cube
 - **Peak Design Ultralight Packing Cube XXS** — Biar Outerwear di dalam tas gak berantakan
 - **Peak Design Packing Cube Small** — Biar Pakaian Tas di dalam tas gak berantakan
-### Pouch
+#### Pouch
 - **Gossamer Gear Storage Sacks Small** — Kantong pisah-pisah barang kecil di dalam tas
 - **Gossamer Gear Storage Sacks Large** — Versi besarnya
 - **Alosak 3x6 Element Proof Bag** — Buat dokumen atau gadget kalau hujan tiba-tiba
@@ -47,20 +47,20 @@
 ---
 
 ## 💻 Perlengkapan Elektronik
-### Device
+#### Device
 - **Fujitsu Lifebook U9311** — Laptop kerja, pilih ini karena ringan dan baterainya tahan lama
 - **iPad Air M1** — Buat baca, nonton, atau meeting
 - **BOOX Go Color 7 Gen II** — E-reader layar warna, mata lebih nyaman buat baca lama
-### Charger
+#### Charger
 - **Nitecore NB Air Powerbank** — Powerbank paling ringan yang pernah dipakai, bahan karbon
 - **Rolling Square Super Tiny Charger** — Adapter terkecil yang bisa ditemukan, gak makan tempat
 - **Garmin USB-C Charger** — Kabel khusus jam, jangan ketinggalan ini
 - **Apple USB-C Woven Cable** — Kabel pengisi daya utama, anyamannya lebih tahan lama dari kabel biasa
 - **inCharge® X 100W 6-in-1 Keyring Cable** — Kabel 6-in-1 yang digantung di kunci, buat darurat kalau kabel utama ketinggalan
-### Flashlight
+#### Flashlight
 - **Nitecore NU25 MCT UL** — Headlamp buat keadaan darurat atau jalan malam
 - **Dokeep USB Mini LED Lanterns** — Lampu kecil buat kamar kalau listrik mati atau pas gelap
-### Aksesoris
+#### Aksesoris
 - **AirPods 4 ANC** — Wajib di transportasi umum
 - **Apple AirTag** — Ditempel di tas, lumayan tenang kalau tas ketinggalan di bagasi
 
@@ -82,11 +82,11 @@
 ---
 
 ## 👓 Barang Tambahan
-### Kacamata
+#### Kacamata
 - **Nike 7929-412** — Kacamata cadangan, kalau yang utama rusak atau ketinggalan
 - **Muji Case for Glasses Small** — Tempat kacamata yang ringkas, tidak ada engsel berat-berat
 - **Montbell Glasses Strap** — Biar kacamata tidak jatuh waktu aktif
-### Tidur
+#### Tidur
 - **Sea to Summit Aeros Premium Traveller Pillow** — Bantal tiup, tidur di kendaraan jadi jauh lebih nyaman
 - **Sea to Summit Breeze Sleeping Bag Liner** — Pengganti selimut kalau penginapannya kurang bersih atau terlalu dingin
 
@@ -152,20 +152,20 @@
 ---
 
 ## 👕 Outfit yang Dipakai
-### Pakaian
+#### Pakaian
 - **Decathlon Men T Shirt Travel 500 Wool** — Kaos merino yang tidak bau meski dipakai seharian penuh
 - **Uniqlo Airism Boxer** — Nyaman dan tidak panas, standar perjalanan
 - **Western Rise AT Pants** — Celana yang kelihatan rapi tapi seenak celana santai
 - **Fjallraven Skogso Jacket** — Jaket bahan G1000 yang makin nyaman makin sering dipakai
 - **GRIP6 Carbon Belt** — Ikat pinggang tanpa buckle logam, tidak perlu dicopot di bandara
-### Sepatu
+#### Sepatu
 - **Nike Pegasus Trail 5** — Sepatu paling nyaman yang pernah dipakai untuk perjalanan jauh
 - **Darn Tough Run No Show Sock** — Kaos kaki yang ada garansi seumur hidup, sudah terbukti
-### Teknologi
+#### Teknologi
 - **iPhone 16** — Ponsel utama
 - **Samsung S25** — Ponsel cadangan
 - **Garmin Fenix 7S Pro** — Jam tangan GPS, pakai layar MIP yang terbaca di sinar matahari
-### Aksesori
+#### Aksesori
 - **Evernew Trinity Pouch DCF** — Dompet kecil yang muat banyak kartu, bentuknya tidak mencolok
 - **Nike 7070/3** — Kacamata utama
 - **Naturehike Microfiber Travel Towel** — saputangan, atau buat lap-lap lain
