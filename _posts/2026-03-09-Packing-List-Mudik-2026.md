@@ -1,5 +1,4 @@
-# 🎒 Packing List — Mudik 2026
-*Ultralight · Minimalis · Secukupnya*
+*🎒 Ultralight · Minimalis · Secukupnya*
 
 ---
 
