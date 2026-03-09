@@ -3,10 +3,14 @@
 ---
 
 ## 🧳 Tas & Organisasi
-
+### Tas Utama
 - **Yamatomichi Mini 2** — Tas utama. Ringan banget dan muat lebih banyak dari yang keliatan
+### Tas Tambahan
 - **Hyperlite Vice Versa** — Pouch kecil buat barang yang sering diambil, taruh depan atau samping
-- **Peak Design Ultralight Packing Cube** — Biar baju di dalam tas gak berantakan
+### Packing Cube
+- **Peak Design Ultralight Packing Cube XXS** — Biar Outerwear di dalam tas gak berantakan
+- **Peak Design Packing Cube Small** — Biar Pakaian Tas di dalam tas gak berantakan
+### Pouch
 - **Gossamer Gear Storage Sacks Small** — Kantong pisah-pisah barang kecil di dalam tas
 - **Gossamer Gear Storage Sacks Large** — Versi besarnya
 - **Alosak 3x6 Element Proof Bag** — Buat dokumen atau gadget kalau hujan tiba-tiba
@@ -43,39 +47,46 @@
 ---
 
 ## 💻 Perlengkapan Elektronik
-
+### Device
 - **Fujitsu Lifebook U9311** — Laptop kerja, pilih ini karena ringan dan baterainya tahan lama
-- **iPad Air M1** — Buat baca, nonton, atau kerja ringan kalau laptop ketinggalan di kamar
+- **iPad Air M1** — Buat baca, nonton, atau meeting
 - **BOOX Go Color 7 Gen II** — E-reader layar warna, mata lebih nyaman buat baca lama
-- **AirPods 4 ANC** — Wajib di transportasi umum
-- **Apple AirTag** — Ditempel di tas, lumayan tenang kalau tas ketinggalan di bagasi
+### Charger
 - **Nitecore NB Air Powerbank** — Powerbank paling ringan yang pernah dipakai, bahan karbon
 - **Rolling Square Super Tiny Charger** — Adapter terkecil yang bisa ditemukan, gak makan tempat
 - **Garmin USB-C Charger** — Kabel khusus jam, jangan ketinggalan ini
 - **Apple USB-C Woven Cable** — Kabel pengisi daya utama, anyamannya lebih tahan lama dari kabel biasa
 - **inCharge® X 100W 6-in-1 Keyring Cable** — Kabel 6-in-1 yang digantung di kunci, buat darurat kalau kabel utama ketinggalan
+### Flashlight
 - **Nitecore NU25 MCT UL** — Headlamp buat keadaan darurat atau jalan malam
-- **Dokeep USB Mini LED Lanterns** — Lampu kecil buat kamar kalau penginapannya gelap
+- **Dokeep USB Mini LED Lanterns** — Lampu kecil buat kamar kalau listrik mati atau pas gelap
+### Aksesoris
+- **AirPods 4 ANC** — Wajib di transportasi umum
+- **Apple AirTag** — Ditempel di tas, lumayan tenang kalau tas ketinggalan di bagasi
 
 ---
 
 ## 🍽️ Peralatan Makan & Hidrasi
-
-- **Wacaco Pipamoka** — Buat bikin kopi di mana saja, tanpa listrik, tanpa repot
+- **Big Sky Insulated Pouch** — Pouch berinsulasi buat jaga suhu botol atau makanan tetap hangat/dingin lebih lama
+### Minum
 - **Cnoc Thru Bottle** — Botol lipat yang bisa dipasangi filter langsung
+- **Wacaco Pipamoka** — Buat bikin kopi di mana saja, tanpa listrik, tanpa repot
 - **Membrane Personal Water Filter Straw** — Filter air kalau terpaksa minum dari sumber yang kurang jelas
 - **Evernew Water Carry 900ml** — Kantong air cadangan, dilipat kalau tidak dipakai
 - **Aquatabs Water Purification Tablets** — Backup terakhir kalau filter tidak ada
+### Makan
 - **Evernew Ti Spoon (TimTim)** — Sendok titanium, sudah lama dipakai dan masih bagus
 - **Protein Bar** — Buat ngemil di perjalanan panjang atau kalau telat makan
-
+- **Kurma** — Buat buka di jalan
+- **Oralit** — Buat Mengganti cairan tubuh
 ---
 
 ## 👓 Barang Tambahan
-
+### Kacamata
 - **Nike 7929-412** — Kacamata cadangan, kalau yang utama rusak atau ketinggalan
 - **Muji Case for Glasses Small** — Tempat kacamata yang ringkas, tidak ada engsel berat-berat
 - **Montbell Glasses Strap** — Biar kacamata tidak jatuh waktu aktif
+### Tidur
 - **Sea to Summit Aeros Premium Traveller Pillow** — Bantal tiup, tidur di kendaraan jadi jauh lebih nyaman
 - **Sea to Summit Breeze Sleeping Bag Liner** — Pengganti selimut kalau penginapannya kurang bersih atau terlalu dingin
 
@@ -96,7 +107,7 @@
 
 ## 🩹 Kit P3K
 
-- **P3K Set** — Isi standar: plester, antiseptik, perban, obat umum
+- **P3K Set + Alosak 4x7** — Isi standar: plester, antiseptik, perban, obat umum
 - **Vitamin** — Jaga daya tahan, terutama kalau jadwal tidur berantakan
 - **Sensi Mask N95 (x3)** — Untuk terminal, stasiun, atau tempat ramai lainnya
 - **3M Earplug** — Tidur di bus atau kereta tanpa ini hampir tidak bisa
@@ -112,11 +123,11 @@
 
 ---
 
-## ✏️ Kantong Akses Cepat
+## ✏️ Kantong di Tas
 
 - **Staedtler Pigment Liner 0.05mm** — Buat nulis atau sketsa kecil-kecilan di jalan
 - **BIC Ballpoint Pen** — Cadangan, karena bolpoin sering hilang entah ke mana
-- **Fjallraven Bergtagen Merino Neck Gaiter** — Buff serba guna, bisa jadi masker, penutup kepala, atau syal tipis
+- **Fjallraven Bergtagen Merino Neck Gaiter** — Buff serba guna, bisa jadi masker, penutup kepala, sarung bantal, atau syal tipis
 - **Daiso Waste Bag** — Kantong sampah kecil, biar tidak buang sampah sembarangan
 - **Samsung Type-C Earphone** — Earphone kabel cadangan kalau AirPods kehabisan baterai
 - **OrbitKey Key Organizer (Kulit)** — Kunci tidak berantakan dan tidak berisik di dalam tas
@@ -136,6 +147,7 @@
 - **Atwood Paracord 275** — Tali serbaguna, sudah beberapa kali kepake di luar rencana
 - **Cricket Mini Lighter** — Korek darurat
 - **3M Earplug (Yellow Neon)** — Cadangan di kit ini, yang utama di P3K
+- **Muji Portable Sewing Set** — Untuk jaga-jaga
 
 ---
 
