@@ -3,7 +3,7 @@
 ---
 
 ## 🧳 Tas & Organisasi
-
+beberapa digunakan agar tetap rapi
 #### Tas Utama
 - **Yamatomichi Mini 2** — Tas utama. Ringan banget dan muat lebih banyak dari yang keliatan
 #### Tas Tambahan
@@ -48,7 +48,7 @@
 ---
 
 ## 💻 Perlengkapan Elektronik
-
+List elektronik untuk mempermudah
 #### Device
 - **Fujitsu Lifebook U9311** — Laptop kerja, pilih ini karena ringan dan baterainya tahan lama
 - **iPad Air M1** — Buat baca, nonton, atau meeting
@@ -84,7 +84,7 @@
 ---
 
 ## 👓 Barang Tambahan
-
+Salah Satu benda emergency yang dibutuhkan
 #### Kacamata
 - **Nike 7929-412** — Kacamata cadangan, kalau yang utama rusak atau ketinggalan
 - **Muji Case for Glasses Small** — Tempat kacamata yang ringkas, tidak ada engsel berat-berat
@@ -155,7 +155,7 @@
 ---
 
 ## 👕 Outfit yang Dipakai
-
+Dipakai di cuaca panas
 #### Pakaian
 - **Decathlon Men T Shirt Travel 500 Wool** — Kaos merino yang tidak bau meski dipakai seharian penuh
 - **Uniqlo Airism Boxer** — Nyaman dan tidak panas, standar perjalanan
