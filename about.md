@@ -2,12 +2,17 @@
 layout: page
 title: About
 ---
-Harjuna adalah Mas-Mas paruh baya yang tertarik dengan segala hal yang berbau komputer, nirkabel, jaringan, _security_, dan _Homelab_ _Server_. Lulusan Teknik Fisika yang nyasar ingin jadi _Security Engineer wannabe_. Pernah mencoba Arch Linux dan Slackware hingga akhirnya berakhir menjadi penggemar distribusi berbasis Debian.
+Harjuna adalah Mas-Mas paruh baya yang tertarik dengan apapun yang berbau komputer, nirkabel, jaringan, _security_, dan _Homelab Server_. 
+Lulusan Teknik Fisika yang nyasar pengen jadi _Security Engineer wannabe_. 
+Pernah mencoba Arch Linux dan Slackware hingga akhirnya berlabuh ke distribusi berbasis Debian.
 
-Urip selalu spaneng tapi no ekspektasi biar tidak kecewa. Kalah bukan berarti gagal, cah-cah nyebute, “_durung wayahe_”. 
+_Urip_ selalu spaneng tapi tetap _no_ ekspektasi biar tidak kecewa. Kalah bukan berarti gagal, _cah-cah nyebute_, "_durung wayahe_".
 
 > Certified Cah Kalahan.
 
-Harjuna sering mengaku _audiophile_ tetapi lagunya cuma Risalah Hati-nya Dewa sama Always-nya Bon Jovi. Sangat suka dengan ke-selo-an, ketenangan, dan hujan. Sudah mulai jadi pecandu Pecel Lele Jogja dari TK sampai sekarang. Mulai membuka hati untuk segala jenis burger yang ada di muka bumi. Tim gedang goreng, tahu susur, dan kopi ireng.
+Sering mengaku _audiophile_ tetapi lagunya cuma Risalah Hati-nya Dewa sama Always-nya Bon Jovi. 
+Sangat suka dengan ke-_selo_-an dan hujan. 
+Sudah jadi pecandu Pecel Lele Jogja dari TK sampai sekarang. Belakangan membuka hati untuk berbagai jenis burger yang ada di muka bumi. 
+Tim _gedang_ goreng, tahu susur, dan kopi _ireng_.
 
-Sekarang lagi sibuk nggresulo, ngoprek _Homelab_, dan semua hal terkait _Security_.
+Sekarang lagi sibuk _nggresulo_, ngoprek _Homelab_, dan semua hal terkait _Security_.
