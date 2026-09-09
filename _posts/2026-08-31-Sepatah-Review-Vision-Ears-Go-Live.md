@@ -1,8 +1,9 @@
 ---
 published: true
-title: Sepatah Review : Vision Ears Go Live
-updated: '2026-08-31 22:47'
+title: Sepatah Review Vision Ears Go Live
+updated: "2026-08-31 22:47"
 ---
+
 ![Vision Ears Go Live dengan AZLA Crystal 2 dan BTR17](/assets/images/vision-ears/vision-ears-go-live-main.jpg)
 
 Haram rasanya kalau salah satu kebodohan paling membahagiakan dalam perjalanan audio ini tidak dicatat. Anggap saja tulisan ini prasasti kecil, untuk mengingat bahwa kadang mencari bahagia memang butuh keputusan finansial yang kurang sehat.
