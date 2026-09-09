@@ -1,6 +1,6 @@
 ---
 published: true
-title: Obituari isi Dompet : Vision Ears Ext
+title: "Obituari isi Dompet: Vision Ears Ext"
 updated: "2026-09-05 21:17"
 ---
 
