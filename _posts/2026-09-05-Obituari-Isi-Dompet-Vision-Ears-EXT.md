@@ -14,7 +14,7 @@ Saya beli ini dengan perasaan agak-agak sedikit meneteskan air mata. Harga segit
 
 Disclaimer dulu, sama seperti sebelumnya, biar tidak salah alamat. Ini review amatir, sangat sangat amatir. Saya bukan audiophile yang bisa mendengar perbedaan suara waktu kabel diganti. Blind test antara Flac dan MP3 320kbp pun saya gagal, sama seperti hidup saya. Perkenalkan kembali, Saya Harjuna, music enjoyer. Playlist masih tetap berisi cinta bertepuk sebelah tangan, slow rock lawas, OST game, dan jejepangan. Jadi review ini bukan buat gegayaan. Ini hanya catatan kecil dari orang yang suka dengar musik, lalu mendadak bengong karena ada lagu lama yang terdengar seperti baru pertama kali didengarkan.
 
-EXT dipakai dengan:
+### EXT dipakai dengan:
 
 - Hidizs AP80 Pro Max
 - ddHiFi TC05 M2
@@ -22,7 +22,7 @@ EXT dipakai dengan:
 - kabel Verus Magni C4
 - eartips AZLA MITHRYL
 
-Comfort: Bagaikan Anal Plug yang dimasukan ke kuping
+### Comfort: Bagaikan Anal Plug yang dimasukan ke kuping
 
 Comfort EXT tidak sebaik seri Go Live. Ini bukan IEM yang tinggal masuk lalu selesai dan tinggal didengerin. Nozzle dan bagian yang masuk ke ear canal cukup besar, jadi harus pintar cari posisi dan seal.
 
@@ -48,7 +48,7 @@ Treble EXT punya energi lebih banyak daripada Go Live. Cymbal terasa lebih nyata
 
 Treble ini juga salah satu alasan EXT terasa istimewa, sekaligus alasan ia bukan IEM paling santai di dunia. Untuk kuping yang sangat sensitif, volume harus dijaga. Kalau terlalu tinggi, fatigue-nya nyata buat saya. Tapi ketika lagu dan volumenya pas, treble EXT memberi rasa yang sulit dijelaskan. "Pokoknya enak"
 
-Teknikal, soundstage-nya gila bagi saya
+### Teknikal, soundstage-nya gila bagi saya
 
 Bagian paling gila dari EXT MK1, buat saya, adalah soundstage-nya.
 
@@ -60,7 +60,7 @@ Imaging dan layering-nya juga kuat. Masih gampang membayangkan posisi instrumen 
 
 Clarity-nya mantab. Detail kecil keluar dengan mudah, tanpa harus memaksa volume naik. Kalau Go Live itu jelas tapi tetap santai, EXT lebih seperti jelas sambil membuka semua potensi yang ada di suatu lagi.
 
-Fatigue: tergantung lagu, volume, dan mood
+### Fatigue: tergantung lagu, volume, dan mood
 
 Apakah EXT bikin fatigue?
 
@@ -70,7 +70,7 @@ Tapi di volume wajar, EXT masih sangat enak. Bukan IEM yang ingin dipakai sambil
 
 Chord Mojo 2 paling cocok buat saya. Ada tenaga, kontrol, dan ruang yang membuat EXT terasa makin Mantab. Kalau butuh portable, saya sering memasangkan dengan Fiio BTR17, namun ya memang gak seenak Chord mojo 2
 
-Kesimpulan
+### Kesimpulan
 
 Kalau Vision Ears Go Live itu enak, Vision Ears EXT sudah masuk wilayah yang tidak gampang dijelaskan pakai kata-kata. Ya mungkin saya norak dan tidak pernah mendengarkan IEM mahal. Namun tetap saja, bagi saya EXT ini udah another level kalau dibanding dengan IEM yang pernah saya denger. Bener-bener banger
 
