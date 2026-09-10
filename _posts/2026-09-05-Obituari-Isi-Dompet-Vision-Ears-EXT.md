@@ -12,7 +12,7 @@ Ini Vision Ears EXT original, atau sekarang lebih gampang disebut EXT MKI. Bukan
 
 Saya beli ini dengan perasaan agak-agak sedikit meneteskan air mata. Harga segitu buat sebuah benda kecil yang masuk kuping memang perlu mental untuk membelinya, atau setidaknya kemampuan untuk pura-pura tidak melihat isi rekening. Tapi ya begitulah, Kadang manusia dewasa mencari bahagia lewat hal yang tidak bisa dijelaskan dengan ChatGPT atau Claude.
 
-Disclaimer dulu, sama seperti sebelumnya, biar tidak salah alamat. Ini review amatir, sangat sangat amatir. Saya bukan audiophile yang bisa mendengar perbedaan suara waktu kabel diganti. Blind test antara Flac dan MP3 320kbp pun saya gagal, sama seperti hidup saya. Perkenalkan kembali, Saya Harjuna, music enjoyer. Playlist masih tetap berisi cinta bertepuk sebelah tangan, slow rock lawas, OST game, dan jejepangan. Jadi review ini bukan buat gegayaan. Ini hanya catatan kecil dari orang yang suka dengar musik, lalu mendadak bengong karena ada lagu lama yang terdengar seperti baru pertama kali didengarkan.
+Disclaimer dulu, sama seperti sebelumnya, biar tidak salah alamat. Ini review amatir, sangat sangat amatir. Saya bukan audiophile yang bisa mendengar perbedaan suara waktu kabel diganti. Blind test antara Flac dan MP3 320kbps pun saya gagal, sama seperti hidup saya. Perkenalkan kembali, Saya Harjuna, music enjoyer. Playlist masih tetap berisi cinta bertepuk sebelah tangan, slow rock lawas, OST game, dan jejepangan. Jadi review ini bukan buat gegayaan. Ini hanya catatan kecil dari orang yang suka dengar musik, lalu mendadak bengong karena ada lagu lama yang terdengar seperti baru pertama kali didengarkan.
 
 ### EXT dipakai dengan:
 
@@ -22,7 +22,7 @@ Disclaimer dulu, sama seperti sebelumnya, biar tidak salah alamat. Ini review am
 - kabel Verus Magni C4
 - eartips AZLA MITHRYL
 
-### Comfort: Bagaikan Anal Plug yang dimasukan ke kuping
+### Comfort: Bagaikan Anal Plug yang dimasukkan ke kuping
 
 Comfort EXT tidak sebaik seri Go Live. Ini bukan IEM yang tinggal masuk lalu selesai dan tinggal didengerin. Nozzle dan bagian yang masuk ke ear canal cukup besar, jadi harus pintar cari posisi dan seal.
 
@@ -32,9 +32,9 @@ Nah, untuk hal ini, eartips AZLA MITHRYL paling membantu buat saya. Setelah kete
 
 ### Suara: besar, megah, hidup, dan embuhlah
 
-Kalau Go Live itu warm, full mendat-mendut karena tuningannya fun, lalu enak buat lama-lama, EXT ini seperti versi yang naik kelas dan tidak mau menyembunyikan kemampuan, sanga-sangat tidak mengaplikasikan sifat tawadu'. Suaranya lebih besar dan megah, lebih open, lebih berani kek orang julid malam, dan punya perbedaan yang lebih terasa antara bass yang bertenaga dengan treble yang ces-ces.
+Kalau Go Live itu warm, full mendat-mendut karena tuningannya fun, lalu enak buat lama-lama, EXT ini seperti versi yang naik kelas dan tidak mau menyembunyikan kemampuan, sangat-sangat tidak mengaplikasikan sifat tawadu'. Suaranya lebih besar dan megah, lebih open, lebih berani kek orang jurit malam, dan punya perbedaan yang lebih terasa antara bass yang bertenaga dengan treble yang ces-ces.
 
-Kalau dari pendengaran saya, EXT punya tuning yang lebih fokus ke bass dan treble, tapi suaranya masih terasa smooth, dengan perpaduan tenaga dan masih smooth. Telinga amatir saya sampai berkedut-kedut keenakan walau jalannya tentu lebih banyak lewat lagu patah hati.
+Kalau dari pendengaran saya, EXT punya tuning yang lebih fokus ke bass dan treble, tapi suaranya masih terasa smooth. Telinga amatir saya sampai berkedut-kedut keenakan walau jalannya tentu lebih banyak lewat lagu patah hati.
 
 Bass EXT punya jedug-jedug yang lebih terasa. Sub-bass bisa turun dalam dan memberi struktur yang mantab. Kick drum terasa punya dug-dug yang lebih nendang, bass gitar lebih gampang diikuti, dan bagian low musik punya energi yang bikin lagu terasa bergerak. Tapi bass-nya tidak cuma besar buat gaya-gayaan, masih tetap ada rasa mendat-mendutnya, tapi tidak kehilangan kontrol
 
@@ -42,7 +42,7 @@ Di slow rock lawas, bass membuat lagu lama terdengar lebih bergairah tanpa menja
 
 Mid dan vokalnya tidak punya kehangatan santai seperti Go Live. EXT serasa lebih open dan lebih berenergi. Vokal laki-laki tetap punya bobot, tetapi tidak setebal atau sehangat Go Live. Vokal perempuan lebih hidup, lebih dekat, dan lebih terasa napas serta emosinya. Kadang terasa seperti penyanyinya sedikit maju dari musik.
 
-Gitar, piano, dan instrumen tengah terdengar jelas. Tidak dibuat terlalu manis. EXT lebih suka menunjukkan sifat asli dari masing-masing lagu. contohnya gini, apabila Rekaman bagus terasa hidup, tapi apabila rekaman yang tajam atau berantakan, tentu suaranya tidak akan bisa bersembunyi. Mixing busuk, maka akan terdengar busuk.
+Gitar, piano, dan instrumen tengah terdengar jelas. Tidak dibuat terlalu manis. EXT lebih suka menunjukkan sifat asli dari masing-masing lagu. Contohnya gini, apabila rekaman bagus, maka lagu uty akan terasa hidup. Akan tetapi apabila rekamannya tajam atau berantakan, tentu suara jelek tidak akan bisa bersembunyi. Mixing busuk, maka akan terdengar busuk.
 
 Treble EXT punya energi lebih banyak daripada Go Live. Cymbal terasa lebih nyata, ces-ces kalau saya bilangnya. Petikan gitar lebih gampang keluar, efek kecil di lagu Jepang dan ambience OST lebih terbuka. Ada rasa cring-cring, tapi jenis cring-cring yang punya kilau dan ekor. yah, mungkin saya bilang cring-ces cring-ces
 
@@ -50,15 +50,15 @@ Treble ini juga salah satu alasan EXT terasa istimewa, sekaligus alasan ia bukan
 
 ### Teknikal, soundstage-nya gila bagi saya
 
-Bagian paling gila dari EXT MK1, buat saya, adalah soundstage-nya.
+Bagian yang gila dari EXT, buat saya, adalah soundstage-nya.
 
 Ini soundstage terluas yang pernah saya dengar dari IEM. Bukan, bukan cuma “lumayan luas untuk ukuran IEM.” Bukan juga “terasa sedikit keluar kepala.” EXT terkadang terasa seperti pakai headphone. Musik bisa melebar ke samping, punya ruang depan-belakang, dan memberi  depth yang membuat aransemen tidak bertumpuk dan dijejalkan ke dalam kuping.
 
-Di OST game, ini terasa trengginas. Orkestra, detil kecil, dan perkusi tidak dilempar jadi satu ke tengah. Ada instrumen yang terasa datang dari samping, ada yang sedikit mundur, ada vokal yang tetap berdiri di tengah. Saat lagunya ramai, EXT tidak campur aduk dan terkena panic attack. 
+Di OST game, ini terasa trengginas. Orkestra, detil kecil, dan perkusi tidak dilempar jadi satu ke tengah. Ada instrumen yang terasa datang dari samping, ada yang sedikit mundur, ada vokal yang tetap berdiri di tengah. Saat lagunya ramai, EXT tidak campur aduk kek bubur
 
 Imaging dan layering-nya juga kuat. Masih gampang membayangkan posisi instrumen ketika lagu mulai full instrumen. Vokal, gitar, drum, bass, dan detil kecil tidak berubah jadi satu saling tindih. Setiap elemen punya jalur sendiri. Rasanya bukan seperti semua pemain dikumpulkan dalam satu studio kecil, tapi diberi tempat masing-masing sebelum disuruh mulai.
 
-Clarity-nya mantab. Detail kecil keluar dengan mudah, tanpa harus memaksa volume naik. Kalau Go Live itu jelas tapi tetap santai, EXT lebih seperti jelas sambil membuka semua potensi yang ada di suatu lagi.
+Clarity-nya mantab. Detail kecil keluar dengan mudah, tanpa harus memaksa volume naik. Kalau Go Live itu clear tapi tetap santai, EXT ini lebih clear namun malah membuka semua potensi yang ada di suatu lagu.
 
 ### Fatigue: tergantung lagu, volume, dan mood
 
@@ -68,7 +68,7 @@ Bisa, kalau dipakai dengan volume kelewat tinggi atau dipasangkan dengan lagu ya
 
 Tapi di volume wajar, EXT masih sangat enak. Bukan IEM yang ingin dipakai sambil mengerjakan excel selama delapan jam tanpa sadar waktu seperti Go Live. EXT lebih cocok ketika memang mau duduk dan benar-benar mendengar musik. Bahasa gaulnya, critical listening: duduk, diam sebentar, putar lagu yang sudah hafal, lalu senyum-senyum karena ada bunyi yang dulu lewat begitu saja.
 
-Chord Mojo 2 paling cocok buat saya. Ada tenaga, kontrol, dan ruang yang membuat EXT terasa makin Mantab. Kalau butuh portable, saya sering memasangkan dengan Fiio BTR17, namun ya memang gak seenak Chord mojo 2
+Chord Mojo 2 paling cocok buat saya. Ada tenaga, kontrol, dan ruang yang membuat EXT terasa makin Mantab. Kalau butuh portable, saya sering memasangkan dengan Fiio BTR17, namun ya memang gak seenak Chord Mojo 2
 
 ### Kesimpulan
 
