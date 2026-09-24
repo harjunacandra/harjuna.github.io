@@ -4,7 +4,7 @@ title: "Envy, New Zealand 3315"
 updated: "2026-09-24 09:33"
 ---
 
-Pagi ini saya dibekali istri saya Ayam Krispi merek yang katanya dulu kena boikot, tapi ya sudahlah, saya kan bukan orang yang teguh. Saya juga mengambil buah yang katanya merupakan buah yang menyebabkan kita dikeluarkan dari surga, Apel. Apel ini saya lihat tergeletak di meja, daripada mubazir, ya mending saya bawa saja. Merahnya cantik, mengilap cling-cling, kelihatan sehat sekali bentukannya, sangat berbeda dengan saya yang seperti selalu kumuh dan kurang gizi.  Buah yang kalau ditaruh di mangkuk kayu bersama jeruk, langsung membuat dapur terlihat seperti rumah orang punya di sinetron-sinetron zaman dulu.
+Pagi ini saya dibekali istri saya Ayam Krispi yang katanya dulu pernah kena boikot, tapi ya sudahlah, saya bukan orang yang teguh dan berprinsip. Apa yang dikasih ke saya, akan saya makan daripada Mubazir. Saya juga mengambil buah yang katanya merupakan buah yang menyebabkan kita dikeluarkan dari surga, buah apel. Buah ini saya lihat tergeletak di meja, saya bawa saja sebagai kudapan nanti setelah makan siang. Merahnya cantik, mengilap cling-cling, kelihatan sehat sekali bentukannya, sangat berbeda dengan saya yang seperti selalu kumuh dan kurang gizi.  Buah yang kalau ditaruh di mangkuk kayu bersama jeruk, langsung membuat dapur terlihat seperti rumah orang punya di sinetron-sinetron zaman dulu.
 
 Saya coba makan satu gigitan.
 
@@ -25,6 +25,6 @@ Jangan-jangan manusia memang benar adalah apa yang dia makan. Orang makan sayur 
 
 Urip itu wang sinawang. Mungkin. 
 
-Cah kalahan? Bisa jadi
+Definisi Cah kalahan? Bisa jadi
 
 Tapi cah kalahan yang makan apel mahal. Ada kelasnya sedikit, hehe
