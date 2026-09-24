@@ -3,7 +3,7 @@ published: true
 title: "Alon-alon Ora Kelakon"
 updated: "2026-09-16 09:44"
 ---
-
+![Apel Envy](/assets/images/general/apel-envy.jpg)
 Saya agak takut membuka sosial media pagi-pagi. Mata belum sepenuhnya melek, tapi jempol sudah langsung membuka HP, lalu berhenti sebentar di situ. Rasanya seperti ada anxiety yang tiba-tiba menyambar ulu hati. Bukan, bukan karena ada pesan dari boss. Saya bisa dibilang adalah salah satu karyawan yang kontribusinya minim di pekerjaan. Yang saya takutkan lebih seram dari itu. Kabar teman pindah kantor, naik jabatan, buka usaha, beli rumah, lari sekian kilometer sebelum matahari muncul. Apalagi yang terakhir, itu salah satu rejeki yang dulu tidak pernah bisa saya syukuri, dan sekarang sudah tidak bisa saya capai. Semua orang seperti punya mesin penggerak sendiri. Saya? ya saya baru bangun, masih sibuk mencari motivasi dan menata muka supaya tidak berantakan dan hopeless seperti zombie.
 
 Jakarta cocok buat itu. Kota ini mengajari orang supaya tidak keburu santai. Di stasiun, orang jalan cepat dan berebut masuk kereta. Di jalan, klakson menggema sepanjang hari, dan umpatan "anjing, ngentot!!!" sudah jadi teman sehari-hari pengendara motor. Di lift, pintu baru terbuka sedikit sudah ada yang menyelinap masuk tanpa menunggu yang keluar seperti sedang mengejar karir. Kalau janji jam sembilan, orang datang lewat dari itu lalu mengeluh macet. Ya, di sini cuma macet yang memang tidak bisa disembuhkan, seburu-buru apa pun kamu di kota ini.
