@@ -23,5 +23,4 @@ Saya mengamalkan iklan A Mild di TV tahun 2000-an itu terlalu serius,
 
 Jangan-jangan manusia memang benar adalah apa yang dia makan. Orang makan sayur jadi sehat. Orang makan protein jadi berotot. Lalu saya? Saya yang makan apel Envy ini, lalu tumbuh jadi orang yang hidupnya cukup-cukup saja tetapi matanya rajin melihat dan membandingkan hidup orang lain. Ya, Benar sekali, saya memang cuma mencari-cari kambing hitam atas sifat iri dengki yang dari dulu tumbuh subur.
 
-Urip itu wang sinawang. Mungkin.  Definisi Cah kalahan? Bisa jadi
-Tapi cah kalahan yang makan apel mahal. Ada kelasnya sedikit, hehe
+Urip itu wang sinawang. Mungkin.  Definisi Cah kalahan? Bisa jadi. Tapi cah kalahan yang makan apel mahal. Ada kelasnya sedikit, hehe
