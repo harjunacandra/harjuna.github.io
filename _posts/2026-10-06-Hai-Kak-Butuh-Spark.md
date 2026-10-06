@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Hai Kak, Butuh Spark?"
+title: "Hai, Kak. Butuh Spark?"
 updated: "2026-10-06 10:58"
 ---
 
