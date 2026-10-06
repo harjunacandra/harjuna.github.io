@@ -12,12 +12,12 @@ Kres, kres. Rasanya enak, renyah, dan agak masam. Terasa seperti apel mahal.
 
 Manis juga, rasanya seperti makan sambil melihat cermin. Kata orang tua saya dulu, saya ini emang anak yang paling manis.
 
-Lalu baru sadar tulisan kecil di stikernya, "Envy, New Zealand 3315".
+Lalu baru sadar tulisan kecil di stikernya, **"Envy, New Zealand 3315"**.
 ![Apel Envy](/assets/images/general/apel-envy.jpg)
 Pantes...
 
 Saya memang gampang sekali merasa iri dan dengki. Lihat orang santai, iri. Lihat orang yang karirnya moncer dan dapet nilai bagus, dengki juga. Lihat orang bahagia, ya pasti jelas iri dengki juga. Lihat orang kerja keras, enggak iri sih kalau ini. 
-Walaupun kalau saya sendiri yang diajak hepi-hepi, main tenis misalnya, mungkin saya akan pura-pura ada urusan keluarga atau sakit dan berkata "skip dulu gaes".
+Walaupun kalau saya sendiri yang diajak hepi-hepi, main tenis misalnya, mungkin saya akan pura-pura ada urusan keluarga atau sakit dan berkata _"skip dulu gaes."_
 Saya mengamalkan iklan A Mild di TV tahun 2000-an itu terlalu serius, 
 >"Susah lihat orang senang, senang lihat orang susah."
 
