@@ -6,8 +6,8 @@ updated: "2026-10-06 10:58"
 
 Beberapa hari lalu saya melihat sebuah unggahan di Threads.
 
-Seseorang menulis pendek: “Kehilangan spark.”
-Akun busi kemudian membalas, kurang lebih, “Hai kak, kami jual spark plug. Barangkali butuh spark.”
+Seseorang menulis pendek: _“Kehilangan spark.”_
+Akun busi kemudian membalas, kurang lebih, _“Hai kak, kami jual spark plug. Barangkali butuh spark.”_
 
 ![busi dan spark](/assets/images/general/busi.jpg)
 
@@ -32,5 +32,5 @@ Capeknya sampai ada masa ketika saya berpikir untuk ke psikolog. Saya cuma meras
 
 Mungkin itu sebabnya balasan admin busi tadi kena banget. Lucu karena absurd, nyesek karena saya memang lagi butuh. Tapi setelah dipikir-pikir, saya juga jadi ingin tanya serius, kalau memang ada yang jual, pasangnya di mana, ya?  
    
-Apa dicolok di pantat?
+**_Apa dicolok di pantat?_**
 
