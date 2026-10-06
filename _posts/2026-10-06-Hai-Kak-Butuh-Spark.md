@@ -1,7 +1,7 @@
 ---
 published: true
 title: "Hai Kak, Butuh Spark?"
-updated: "2026-09-05 21:17"
+updated: "2026-10-06 10:58"
 ---
 
 Beberapa hari lalu saya melihat sebuah unggahan di Threads.
