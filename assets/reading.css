@@ -1,0 +1,176 @@
+/* Reading-first layer for harjuna.id. Loaded after the legacy theme CSS. */
+:root {
+  --ui-font: "Segoe UI", system-ui, -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif;
+  --reading-font: Georgia, "Times New Roman", serif;
+  --code-font: Consolas, Monaco, "Courier New", monospace;
+  --ink: #1d1d1f;
+  --muted: #6b7280;
+  --line: #d1d5db;
+  --paper: #fff;
+  --link: #0b57d0;
+}
+
+html { background: var(--paper); }
+
+body {
+  max-width: 72rem;
+  margin: 0 auto;
+  padding: 1.5rem;
+  color: var(--ink);
+  background: var(--paper);
+  font-family: var(--ui-font);
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+.site-header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 0 0 1.25rem;
+  border-bottom: 1px solid var(--line);
+}
+
+.site-title {
+  color: var(--ink);
+  border: 0;
+  font-size: 1.125rem;
+  font-weight: 750;
+  letter-spacing: -0.02em;
+}
+
+.site-nav,
+.site-links,
+.page-navigation {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .5rem 1rem;
+}
+
+.site-nav a,
+.site-links a,
+.page-navigation a {
+  border: 0;
+  color: var(--muted);
+  text-decoration: none;
+}
+
+.site-nav a:hover,
+.site-nav a:focus-visible,
+.site-links a:hover,
+.site-links a:focus-visible,
+.page-navigation a:hover,
+.page-navigation a:focus-visible {
+  color: var(--link);
+  text-decoration: underline;
+  text-underline-offset: .2em;
+}
+
+.site-content { min-width: 0; }
+
+.site-footer {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-top: 4rem;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--line);
+  color: var(--muted);
+  font-size: .875rem;
+}
+
+main { margin: 0; }
+
+.home-archive {
+  max-width: 44rem;
+  margin: 3rem 0 5rem;
+}
+
+.archive-year {
+  margin: 2.75rem 0 1rem;
+  font-size: 1.125rem;
+  letter-spacing: -.01em;
+}
+
+.archive-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.archive-list li {
+  display: grid;
+  grid-template-columns: 5rem minmax(0, 1fr);
+  gap: 1rem;
+  margin: .8rem 0;
+  padding: 0;
+}
+
+.archive-date { color: var(--muted); font-size: .875rem; }
+.archive-title { color: var(--ink); border-color: #9ca3af; }
+.archive-title:hover, .archive-title:focus-visible { color: var(--link); border-color: var(--link); }
+
+.post {
+  max-width: 42rem;
+  margin: 3rem auto 5rem;
+  font-family: var(--reading-font);
+  font-size: 1.125rem;
+  line-height: 1.82;
+}
+
+.post-header {
+  margin-bottom: 2.5rem;
+  font-family: var(--ui-font);
+}
+
+.post-title {
+  margin: 0;
+  font-size: clamp(2rem, 5vw, 3rem);
+  font-weight: 750;
+  line-height: 1.08;
+  letter-spacing: -.04em;
+}
+
+.post-date {
+  display: block;
+  margin-top: .85rem;
+  color: var(--muted);
+  font-size: .9rem;
+}
+
+.post h2, .post h3, .post h4 {
+  margin: 2.7em 0 .75em;
+  font-family: var(--ui-font);
+  line-height: 1.2;
+  letter-spacing: -.02em;
+}
+
+.post h2 { font-size: 1.4rem; }
+.post h3 { font-size: 1.15rem; }
+.post p { margin: 0 0 1.35em; }
+.post a { color: var(--link); border-color: currentColor; }
+.post blockquote { margin: 2rem 0; padding: .25rem 1.25rem; background: transparent; border-left: 3px solid var(--line); color: #4b5563; }
+.post code, .post pre { font-family: var(--code-font); }
+.post pre { overflow-x: auto; padding: 1rem; background: #f3f4f6; border-radius: .25rem; font-size: .8em; line-height: 1.55; }
+.post :not(pre) > code { padding: .1em .3em; background: #f3f4f6; border-radius: .2rem; font-size: .85em; }
+
+.page-navigation {
+  max-width: 42rem;
+  margin: -2rem auto 0;
+  justify-content: space-between;
+  font-size: .9rem;
+}
+
+@media (max-width: 640px) {
+  body { padding: 1rem; }
+  .site-header, .site-footer { align-items: flex-start; flex-direction: column; }
+  .site-header { gap: .75rem; }
+  .site-nav { gap: .45rem .9rem; }
+  .home-archive { margin-top: 2rem; }
+  .archive-list li { grid-template-columns: 4.5rem minmax(0, 1fr); gap: .75rem; }
+  .post { margin: 2.25rem auto 4rem; font-size: 1.0625rem; line-height: 1.78; }
+  .post-header { margin-bottom: 2rem; }
+  .post-title { font-size: clamp(2rem, 10vw, 2.6rem); }
+}
