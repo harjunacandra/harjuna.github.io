@@ -19,8 +19,9 @@ Disclaimer dulu, sama seperti sebelumnya, biar tidak salah alamat. Ini review am
 - Hidizs AP80 Pro Max
 - ddHiFi TC05 M2
 - Chord Mojo 2
+- Ibasso PB6
 - kabel Verus Magni C4
-- eartips AZLA MITHRYL
+- Eartips JVC Spiraldot++
 
 ### Comfort: Bagaikan Anal Plug yang dimasukkan ke kuping
 
