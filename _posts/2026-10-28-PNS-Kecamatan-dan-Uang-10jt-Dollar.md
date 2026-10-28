@@ -22,8 +22,9 @@ Saya cuma mau kembali untuk nonton. Tidak masuk lagi ke tubuh saya yang dulu, la
 
 Termasuk kebodohan-kebodohan itu. Soalnya kalau semua yang menyebalkan dihapus, yang tersisa cuma montase hidup bagus. Padahal hidup tidak begitu. Ada senang, susah, malu, bangga, keputusan aneh, dan hari-hari biasa yang dulu terasa membosankan, tapi sekarang malah pengin dilihat lagi. 
 
-Walaupun jujur, saya tidak yakin kuat nonton diri saya yang dulu lama-lama. Anak itu pasti bikin banyak keputusan tolol dengan keyakinan penuh. Baru kena patah hati pertama saja sudah bertingkah seperti dunia kiamat. Saya pengin ketawa lihatnya, tapi mungkin juga kasihan.
+Walaupun jujur, saya tidak yakin kuat nonton diri saya yang dulu lama-lama. Anak itu pasti bikin banyak keputusan tolol dengan keyakinan penuh. Baru kena patah hati pertama saja sudah bertingkah seperti dunia kiamat. Saya membayangakan saja jadi pengin ketawa lihatnya, tapi mungkin juga kasihan.
 
+*****
 Balik ke masa sekarang. Lalu, apakah saya bahagia sekarang?
 
 Ya, tentu saja. Walaupun masih sering iri dan dengki. Kadang lihat hidup orang lain masih pengin komentar, "Kok enak amat hidupnya?" Tapi saya nggak mau kehilangan semua yang saya punya sekarang cuma demi membetulkan satu-dua bagian yang dulu terasa salah.
