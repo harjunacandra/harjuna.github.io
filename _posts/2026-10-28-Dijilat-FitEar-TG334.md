@@ -12,9 +12,9 @@ Disclaimer, masih sama seperti sebelumnya. Ini review amatir, amatir banget. Tel
 
 ### TG334 dipakai dengan:
 
-Chord Mojo 2
-Kabel 007b dengan Jack Pentaconn
-Eartips bawaan, AZLA SednaEarfit SE1000 (iya, bawaan. Ceritanya panjang, Saya ceritakan di bawah)
+- Chord Mojo 2
+- Kabel 007b dengan Jack Pentaconn
+- Eartips bawaan, AZLA SednaEarfit SE1000 (iya, bawaan. Ceritanya panjang, Saya ceritakan di bawah)
 
 ### Comfort: Lumayan enak, tapi shellnya besar
 
