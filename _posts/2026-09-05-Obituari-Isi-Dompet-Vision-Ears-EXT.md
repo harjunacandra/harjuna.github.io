@@ -4,7 +4,7 @@ title: "Obituari isi Dompet: Vision Ears Ext"
 updated: "2026-09-05 21:17"
 ---
 
-![Vision Ears EXT dengan AZLA MITHRYL](/assets/images/vision-ears/vision-ears-ext-main.jpg)
+![Vision Ears EXT dengan AZLA MITHRYL](/assets/images/vision-ears/vision-ears-ext-main-new.jpg)
 
 Rasanya agak pahit kalau IEM termahal yang pernah dibeli tidak dicatat di catatan harian. Hal ini lebih sering saya lakukan bukan buat pamer, anjay, tapi lebih buat arsip, agar suatu hari nanti, ketika saya melihat mutasi rekening dan mulai mempertanyakan kewarasan sendiri, ada bukti bahwa uang itu setidaknya berubah menjadi kebahagiaan.
 
@@ -16,12 +16,10 @@ Disclaimer dulu, sama seperti sebelumnya, biar tidak salah alamat. Ini review am
 
 ### EXT dipakai dengan:
 
-- Hidizs AP80 Pro Max
-- ddHiFi TC05 M2
-- Chord Mojo 2
-- Ibasso PB6
-- kabel Verus Magni C4
-- Eartips JVC Spiraldot++
+- Chord Mojo 2 
+- Ibasso PB6 Macaw Amp
+- Kabel Vision Ears Go Live!. Saya menggunakan ini karena secara estetika lebih oke dibanding Verus Magni C4
+- Eartips Eletech Baroque Stage
 
 ### Comfort: Bagaikan Anal Plug yang dimasukkan ke kuping
 
