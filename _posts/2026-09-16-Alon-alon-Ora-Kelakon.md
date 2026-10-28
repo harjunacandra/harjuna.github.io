@@ -13,6 +13,7 @@ berikut kutipannya
 > "Jakarta memang kota keras, kalah bersaing akan digilas. Sembah sujud puteramu, Slamet."
 
 Saya suka kalimat itu justru karena bagian _"sembah sujud"_-nya. Jakarta digambarkan sebagai tempat orang digilas, tapi suratnya tetap ditutup dengan tata krama. Masih njawani, kalau orang bilang.
+![Kurang Ajar!!](/assets/images/general/kurang-ajar.jpg)
 
 Dan njawani itu juga yang menempel di saya lewat kalimat lain, alon-alon waton kelakon. Biasanya diterjemahkan _"pelan-pelan asal terlaksana"_. Terjemahannya benar, cuma nadanya hilang. Alon-alon bukan ajakan bermalas-malasan. Waton kelakon juga bukan alasan menyerahkan semuanya kepada nasib. Tetap ada yang dikerjakan, tetap ada tujuan. Hanya saja langkahnya tidak perlu dibuat seperti sedang dikejar Bank Plecit.
 
