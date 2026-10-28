@@ -10,11 +10,13 @@ Orang tua menjanjikan hadiah. Kalau saya bisa masuk SMP itu, saya boleh minta ap
 
 Nugget yang saya maksud adalah nugget yang iklannya dibawakan penyanyi cilik dan penyanyi kawakan. 
 _“I feel good, teloletloletlolet”._ Lagunya melekat, saya tahu ini cuma lagu plesetan tapi harusnya sang pembuat iklannya bangga bahwa masih ada bapak-bapak setelah lebih dari 2 dekade masih inget jingle lagunya.
+![Nugget](/assets/images/general/so-good.jpg)
 Tapi sudahlah ini malah saya jadi yapping. Yang jelas, saya percaya nugget itu enak. Sangat enak. Enaknya pasti berbeda dengan lauk yang biasa muncul di meja makan kami. Itu lambang kemakmuran. Orang yang pernah makan nugget pasti sarapan roti tawar, minum jus jeruk, punya buah di meja makan, dan makan bersama keluarga sambil ngobrol santai. _“Mau tambah selai stroberi atau blueberry?”_
 
 ya, di Rumah kami tidak seperti itu, tidak ideal seperti di sinetron-sinetron TV. Kami memang makan bersama kalau kebetulan semua orang sedang di rumah dan makanan belum habis duluan. Buah ada sesekali, tapi bukan jenis buah yang ditaruh cantik di mangkuk kaca. Jus jeruk juga ada, bentuknya dalam sachet merk ABC. Kalau mau dingin, tinggal ditambah es. Kalau esnya habis, ya anggap saja itu jus jeruk versi hangat.
 
-Sikat gigi elektrik lain lagi ceritanya. Saya ingat waktu dulu masih kecil, menyikat gigi adalah kegiatan membosankan yang membuang waktu. Sikat Gigi baru masuk mulut sebentar sudah batuk-batuk bengek dan mau muntah. Bayangkan, dengan sikat gigi elektrik, saya hanya tinggal mangap membuka mulut, memasukkan tanpa perlu menggoyang-goyangkan sikat seperti odong-odong. Di mata saya, sikat gigi elektrik bukan alat untuk membersihkan gigi. tapi sebuah penemuan besar yang akan mengubah peradaban. _**TEKNOLOGIA!!!**_
+Sikat gigi elektrik lain lagi ceritanya. Saya ingat waktu dulu masih kecil, menyikat gigi adalah kegiatan membosankan yang membuang waktu. Sikat Gigi baru masuk mulut sebentar sudah batuk-batuk bengek dan mau muntah. Bayangkan, dengan sikat gigi elektrik, saya hanya tinggal mangap membuka mulut, memasukkan tanpa perlu menggoyang-goyangkan sikat seperti odong-odong. Di mata saya, sikat gigi elektrik bukan alat untuk membersihkan gigi. BZZ BZZ BZZ BZZ... Tapi sebuah penemuan besar yang akan mengubah peradaban. _**TEKNOLOGIA!!!**_
+
 
 Singkat cerita, saya diterima. Masuk sepuluh besar pula. Rasanya seperti baru lolos seleksi jadi menteri. Tanpa fafifu, tanpa syukuran, Ibu mengajak saya ke Purnama, swalayan mini dekat rumah. Nugget pun dibeli.
 
@@ -22,8 +24,8 @@ Saya menunggu momen itu dengan penuh hormat. Barang yang selama ini hanya hidup 
 
 Lalu saya mencoba gigitan pertama. Saya kunyah pelan-pelan, meresapi secara paripurna.. Ternyata tidak enak. Bukan tidak enak karena dimasak salah. Bukan. Memang saya tidak suka, lidah saya yang menyedihkan, Ndeso kalau kata orang-orang. Bagi anak kecil yang konservatif seperti saya, Teksturnya aneh, lebih mirip tempe yang diiris tebal yang ngaku-ngaku ayam. Saya makan beberapa potong karena merasa tidak enak kepada orang tua. Setelah itu saya kapok. Nugget iklan penyanyi cilik ternyata tidak semagis apa yang ditayangkan di televisi.
 
-Masih ada satu lagi, kalau nugget mengecewakan, harusnya hadiah yang kedua akan membahagiakan. Saya yakin Tuhan tidak akan tega membuat seorang anak kecewa dua kali berturut-turut hanya gara-gara hadiah masuk SMP. Lalu tibalah hari membeli sikat gigi elektrik. Incaran saya, _**"Pepsodent Elektra".**_
-
+Masih ada satu lagi, kalau nugget mengecewakan, harusnya hadiah yang kedua akan membahagiakan. Saya yakin Tuhan tidak akan tega membuat seorang anak kecewa dua kali berturut-turut hanya gara-gara hadiah masuk SMP. Lalu tibalah hari membeli sikat gigi elektrik. Incaran saya, _**"Pepsodent Electra".**_
+![Pepsodent Electra](/assets/images/general/pepsodent-electra.jpg)
 Kami melihat barangnya di toko. Saya masih ingat cara saya memandang rak itu. Ada sikat gigi dengan kepala yang bisa berputar sendiri. Saya membayangkan gigi saya akan bersih seperti gigi bintang iklan pasta gigi. Hidup saya juga mungkin ikut bersih. Masa depan tampak lebih menjanjikan.
 
 Kemudian saya melihat harganya. 
