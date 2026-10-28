@@ -4,7 +4,7 @@ title: "Obituari isi Dompet: Vision Ears Ext"
 updated: "2026-09-05 21:17"
 ---
 
-![Vision Ears EXT dengan AZLA MITHRYL](/assets/images/vision-ears/vision-ears-ext-main-new.jpg)
+![Vision Ears EXT dengan Mojo 2 dan PB6 Macaw](/assets/images/vision-ears/vision-ears-ext-main-new.jpeg)
 
 Rasanya agak pahit kalau IEM termahal yang pernah dibeli tidak dicatat di catatan harian. Hal ini lebih sering saya lakukan bukan buat pamer, anjay, tapi lebih buat arsip, agar suatu hari nanti, ketika saya melihat mutasi rekening dan mulai mempertanyakan kewarasan sendiri, ada bukti bahwa uang itu setidaknya berubah menjadi kebahagiaan.
 
