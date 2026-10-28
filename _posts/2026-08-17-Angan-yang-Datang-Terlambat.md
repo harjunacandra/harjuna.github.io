@@ -31,7 +31,7 @@ Di situ baru terasa kalau Vokalnya muncul tepat di depan saya. Intim dan Jernih.
 Saya ikut tersenyum.
 
 Mojo 2 akhirnya punya tenaga cukup untuk mengangkat PK1. Kalau rakyat? Ya, tetap disuruh kuat-kuat mengangkat beban hidupnya sendiri. Bedanya, PK1 punya amplifier. Rakyat biasanya cuma punya janji-janji yang sudah basi.
-
+![Yuin PK1 dengan Chord Mojo 2](/assets/images/yuin/yuin-pk1-mojo.jpg)
 
 Hari ini saya bertambah umur. Di luar sana, bendera merah putih dipasang di gang-gang sempit. Negara merayakan kemerdekaan. Di meja saya, Mojo 2 menyala ungu dan PK1 akhirnya berbunyi seperti yang dulu saya bayangkan.
 
