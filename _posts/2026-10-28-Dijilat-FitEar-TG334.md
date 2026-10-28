@@ -3,7 +3,7 @@ published: true
 title: "Dijilat FitEar TG334 (2021)"
 updated: "2026-10-28 09:45"
 ---
-
+![FitEar TG334 dengan Mojo 2](/assets/images/fitear/fitear-tg334.jpg)
 Belum kering air mata gara-gara EXT, sudah ada lagi yang harus dicatat. Ya mau gimana, namanya juga catatan harian, dan ini juga termasuk harian saya, harian yang mahal.
 
 Ini adalah salah satu IEM impian saya sejak dulu. kalau di earbud ada Yuin PK1, di DAC ada Chord Mojo 2. Nah di IEM, ini ada FitEar To Go! 334. Yang sekarang ini beda, Ini FitEar TG334, yang warna biru. Yang keluaran 2021, bukan To Go! 334 yang hitam itu. Saya sempat bingung juga, soalnya yang lama orang-orang nyingkatnya TG334 juga. Jadi kalau cari review di internet, harus teliti dulu ini yang mana, jangan sampai baca review barang lain terus manggut-manggut sendiri ternyata beda barang yang direview
