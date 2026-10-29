@@ -18,6 +18,8 @@ Saat hidup lagi berantakan, hal kecil semacam ini bisa bikin bahagia. Mood naik,
 
 Jadi ya, jalan saja. Nikmati yang ada. Kerja, kerja, kerja, udah seperti jargon Presiden sebelum ini.
 
+![UI Hujan](/assets/images/general/ui-hujan.jpg)
+
 Lanjut.. Perjalanan ke kantor biasanya lewat hutan UI. Habis hujan begini, udaranya jelas juara, tidak ada lawan. Saya jalan pelan-pelan di situ sambil mendengarkan Hujan dari Utopia lewat intercom Cardo dengan speaker JBL, anjay. Dan bukan, itu bukan dari shuffle. Saya sengaja setel manual biar suasananya makin melankolis.
 
 >"Aku selalu bahagia saat hujan turun, kar'na aku dapat mengenangmu untukku sendiri, oh-oh-oh-oh"
