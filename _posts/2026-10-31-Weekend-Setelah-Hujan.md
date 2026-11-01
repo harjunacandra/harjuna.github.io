@@ -17,7 +17,10 @@ Sebenarnya saya bingung mau menulis apa. Saya cuma ingin menangkap pagi ini sebe
 
 Lucunya, yang bikin saya merasa pulang ternyata bukan rumah. Cuma bau brambang goreng dan minyak terasi yang nempel di udara. Bahkan lagu patah hati pun entah kenapa malah bikin kangen kampung, padahal hidup saya juga lagi tidak patah-patah amat, hanya berantakan saja.
 
-Hari ini weekend. Saya tidak mau menulis panjang-panjang, apalagi sok menemukan pelajaran hidup dari hujan dan ikan asin. Paragraf soal bersyukur tadi anggap saja khilaf. Saya cuma mau duduk, makan tahu bakso, dengerin musik, lalu bersantai.
-Seperti kata Squidward, "Aku akan bersantai, walaupun itu akan membunuhku."
+Hari ini weekend. Saya tidak mau menulis panjang-panjang, apalagi sok menemukan pelajaran hidup dari hujan dan ikan asin. Paragraf soal bersyukur tadi anggap saja khilaf. Saya cuma mau duduk, makan tahu bakso, dengerin musik, lalu bersantai bagaimanpun caranya.
+
+Seperti kata Squidward, 
+
+>"Aku akan bersantai, meskipun itu akan membunuhku."
 
 ![Squidward](/assets/images/general/squidward.jpg)
