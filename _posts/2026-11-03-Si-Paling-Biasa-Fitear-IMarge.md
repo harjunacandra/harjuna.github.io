@@ -21,9 +21,9 @@ Konsepnya malah agak aneh. BA-nya disuruh main full range, lalu EST cuma "ditamb
 
 IMarge dipakai dengan:
 
-iFi GO blu Air
-FitEar cable 013 (3.5mm stereo mini)
-SpinFit W1 bawaan
+- iFi GO blu Air
+- FitEar cable 013 (3.5mm stereo mini)
+- SpinFit W1 bawaan
 
 ### Comfort: Ternyata saya yang bego
 
@@ -61,7 +61,7 @@ Yang saya suka malah naturalnya. Semuanya tidak dibuat-buat. Mungkin justru kare
 
 Treble nya EST yang tidak "EST banget". Nah, ini lucu. IMarge pakai EST. Kalau cuma baca spek, saya langsung waspada. Telinga saya kan agak kampungan kalau ketemu treble. Terlalu ces-ces sedikit, selesai. RE800 dan JH5 Pro sudah mengajarkan itu.
 
-Tapi EST di IMarge ternyata kalem banget. Ada udara dan ekstensinya, tapi tidak dipamerkan. Simbal tetap keluar, detail atas masih ada, tapi tidak ada sensasi treble ditembakkan langsung ke gendang telinga. Kalau treble TG334 halus, IMarge rasanya lebih santai lagi. Kalau yang dicari treble yang bikin "wah", EXT tetap juaranya. 
+Tapi EST di IMarge ternyata kalem banget. AIry dan ada ekstensinya, tapi tidak dipamerkan. Simbal tetap keluar cesces, detail  masih ada, tapi tidak ada sensasi treble ditembakkan langsung ke gendang telinga. Kalau treble TG334 halus, IMarge rasanya lebih santai lagi. Kalau yang dicari treble yang bikin "wah", EXT tetap juaranya. 
 
 
 ### Teknikal: Jangan berharap sulap
