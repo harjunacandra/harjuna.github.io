@@ -8,6 +8,7 @@ description:        "tempat untuk berkeluh kesah"
 author_name:        "Harjuna" # Your name here
 author_email:       me[at]harjuna.id # Your email here
 author_gravatar:    93149c10ce2957f56939dcbff75837ba # Your Gravatar md5 hash here for logo
+logo_url:           https://www.gravatar.com/avatar/93149c10ce2957f56939dcbff75837ba.png?s=160
 twitter_username:   hrjncs # Your Twitter username here
 github_username:    hrjncs # Your GitHub username here
 
@@ -16,6 +17,7 @@ baseurl:            "" # Base URL must end WITHOUT a slash, default: ""
 permalink:          /notes/:title # Post permalink
 timezone:           Asia/Jakarta # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 mathjax:            true  # enables support for mathjax - set to false to disable
+social_share_previews: true
 
 # Site Build
 highlighter:        rouge
@@ -28,7 +30,7 @@ sass:
 # Other Params
 include:            [ "robots.txt" ]
 exclude:            [ "LICENSE", "README.md", "CNAME", "vendor", "Gemfile" ]
-gems:
+plugins:
   - jekyll-sitemap
 
 
