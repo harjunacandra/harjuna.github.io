@@ -16,7 +16,7 @@ Untungnya dapat juga tempat tinggal, numpang di rumah mbah-nya teman SMA Ucup, d
 
 Saya berangkat naik kereta ekonomi PSO, yang paling murah. Kereta apa persisnya saya sudah lupa. Yang saya ingat, itu pertama kalinya saya naik kereta jarak jauh. Ya memang saya bukan orang yang suka ke mana-mana.
 
-Dari stasiun, kalau tidak salah, kami naik busway ke Mampang. Iya, busway. Dulu orang lebih sering menyebutnya begitu ketimbang TransJakarta. Sepanjang jalan saya melongo seperti anak kecil yang baru lihat hal baru. Oh, begini toh Jakarta. Gedung tinggi di mana-mana, lalu lintasnya gila, semua orang kelihatan terburu-buru. Saya, si katak dalam tempurung dan introvert ini akhirnya lihat dunia luar juga. Itu juga pertama kalinya saya lihat langit Jakarta, yang sampai sekarang saya tidak yakin itu mendung beneran atau polusi. Beda jauh sama kampung saya.
+Dari stasiun, kalau tidak salah, kami naik busway ke Mampang. Iya betul, saya menyebutnya busway. Dulu orang lebih sering menyebutnya begitu ketimbang TransJakarta. Sepanjang jalan saya melongo seperti anak kecil yang baru lihat hal baru. Oh, begini toh Jakarta. Gedung tinggi di mana-mana, lalu lintasnya gila, semua orang kelihatan terburu-buru. Saya, si katak dalam tempurung dan introvert ini akhirnya lihat dunia luar juga. Itu juga pertama kalinya saya lihat langit Jakarta, yang sampai sekarang saya tidak yakin itu mendung beneran atau polusi. Beda jauh sama kampung saya.
 
 Sampai di rumah mbah nya temen Ucup, saya bebersih, bongkar tas, lalu siap-siap buat besok. Di sini saya pertama kali makan di warkop tek-tek abang-abang Jakarta. Rasanya enak. Entah memang enak, entah karena akhirnya bisa makan di warkop kayak yang di tipi-tipi, atau karena saya memang kelaparan setelah perjalanan panjang. Nasi goreng tek-tek pun kayaknya pertama kali saya makan waktu di sini, haha.
 
@@ -34,7 +34,7 @@ _Sore hari, 3 November 2026 jam pulang kerja_
 
 Saya menulis draft kasar ini di pertigaan Tendean arah Mampang, di atas Vario butut saya, sambil kejebak macet.
 
-Iya, kalian tidak salah baca. Di Gates of Hell itu.
+Iya, kalian tidak salah baca. Di Gates of Hell itu. Bayangkan, saya bisa sampai mengeluarkan HP sebentar untuk menulis draft kasar yang tiba-tiba terlintas di pikiran di saved messages Telegram.
 
 Doa saya dulu ternyata tidak terkabul. Dari pertama kerja, saya malah sudah tinggal di Mampang. Pindah kerja, pindah rumah, jalan pulang saya tetap lewat Mampang, lewat jalan yang paling tidak ingin saya lewati.
 
