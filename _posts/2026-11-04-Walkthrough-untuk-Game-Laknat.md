@@ -28,8 +28,8 @@ Dan ya, saya akhirnya berhasil mencapai Mega untuk dua digimon. Guilmon jadi Gal
 
 Terus, apakah saya bakal install lagi versi online-nya?
 
-Tentu tidak. Saya tahu tidak akan merasakan hal yang sama seperti waktu kecil, perasaan senang yang bikin deg-degan itu, perasaan emosi waktu bolak-balik, dan grinding yang menyebalkan itu. Lagi pula, saya juga malas. Mau main sama siapa memangnya? Saya bukan tipe yang penasaran sama gameplay online atau fitur-fitur barunya. Lucu juga sebenarnya. Game yang bikin saya emosi hampir tiap hari, kok bisa saya sebut favorit?
+Tentu tidak. Saya tahu tidak akan merasakan hal yang sama seperti waktu kecil, perasaan senang yang bikin deg-degan itu, perasaan emosi waktu bolak-balik, dan grinding yang menyebalkan itu. Lagi pula, saya juga malas. Mau main sama siapa memangnya? Saya bukan tipe yang penasaran sama gameplay online atau fitur-fitur barunya. 
 
-Orang Jawa bilang, witing tresno jalaran soko kulino. Cinta tumbuh karena terbiasa. Mungkin itu yang terjadi sama Digimon World 3. Game-nya jelas tidak ramah bagi perasaan saya yang sensitif. Tapi sebulan penuh, tiap siang sambil menunggu buka, saya bolak-balik nemuin NPC, grinding, dan kesasar di tempat yang sama.
+Lucu juga sebenarnya. Game yang bikin saya emosi hampir tiap hari, kok bisa saya sebut favorit? Orang Jawa bilang, witing tresno jalaran soko kulino. Cinta tumbuh karena terbiasa. Mungkin itu yang terjadi sama Digimon World 3. Game-nya jelas tidak ramah bagi perasaan saya yang sensitif. Tapi sebulan penuh, tiap siang sambil menunggu buka, saya bolak-balik nemuin NPC, grinding, dan kesasar di tempat yang sama.
 
 Witing tresno jalaran soko kesasar nang Mobius Dessert, jingan.
